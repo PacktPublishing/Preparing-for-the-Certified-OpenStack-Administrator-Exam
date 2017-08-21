@@ -7,3 +7,9 @@ You will begin your journey by getting well-versed with the OpenStack environmen
 Finally, you’ll benefit from the special tips section and a practice exam to put your knowledge to the test. By the end of the book, you will be ready to become a Certified OpenStack Administrator!
 
 ## Materials
+
+* OpenStack Newton All-in-One Virtual Appliance (`coa-aio-newton.ova`) - See Chapter 2 in the book for Installation Instructions.
+
+## Issues
+
+* If you experience any issues with the appliance or have any questions, feel free to open GitHub issue or message me at [matt@madorn.com](mailto:madorn@gmail.com)
