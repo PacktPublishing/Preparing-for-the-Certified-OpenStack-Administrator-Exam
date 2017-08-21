@@ -9,3 +9,7 @@ Finally, you’ll benefit from the special tips section and a practice exam to p
 ## Materials
 
 * OpenStack Newton All-in-One Virtual Appliance (`coa-aio-newton.ova`) - See Chapter 2 in the book for Installation Instructions.
+
+## Issues
+
+* If you experience any issues with the appliance or have any questions, feel free to open GitHub issue or message me at [matt@madorn.com](mailto:madorn@gmail.com)
