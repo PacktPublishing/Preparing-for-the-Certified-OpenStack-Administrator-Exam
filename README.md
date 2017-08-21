@@ -8,4 +8,4 @@ Finally, you’ll benefit from the special tips section and a practice exam to p
 
 ## Materials
 
-* OpenStack Newton All-in-One Virtual Appliance (`coa-aio-newton`) - See Chapter 2 for Installation Instructions
+* OpenStack Newton All-in-One Virtual Appliance (`coa-aio-newton.ova`) - See Chapter 2 in the book for Installation Instructions.
