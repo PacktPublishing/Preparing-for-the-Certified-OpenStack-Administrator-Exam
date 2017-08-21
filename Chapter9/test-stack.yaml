@@ -1,0 +1,39 @@
+heat_template_version: 2013-05-23
+description: Test Stack
+
+parameters:
+  ServerName:
+    type: string
+    description: A name for the server
+  Image:
+    type: string
+    description: Image ID used to boot the server
+  Flavor:
+    type: string
+    description: Flavor of server
+  Net:
+    type: string
+    description: Network ID for the server
+  VolumeName:
+    type: string
+    description: A name for the volume
+
+resources:
+  server1:
+    type: OS::Nova::Server
+    properties:
+      name: { get_param: ServerName }
+      image: { get_param: Image }
+      flavor: { get_param: Flavor }
+      networks:
+      - network: { get_param: Net }
+  volume1:
+    type: OS::Cinder::Volume
+    properties: 
+      name: { get_param: VolumeName }
+      size: 1
+  volumeattach1:
+    type: OS::Cinder::VolumeAttachment
+    properties:
+      volume_id: { get_resource: volume1 }
+      instance_uuid: { get_resource: server1}
