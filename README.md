@@ -12,4 +12,4 @@ Finally, you’ll benefit from the special tips section and a practice exam to p
 
 ## Issues
 
-* If you experience any issues with the appliance or have any questions, feel free to message me at [matt@madorn.com](mailto:matt@madorn.com)
+* If you experience any issues with the appliance or have any questions/comments regarding the book, feel free to email me at [matt@madorn.com](mailto:matt@madorn.com)
