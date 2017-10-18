@@ -1,3 +1,5 @@
+## 10/18/2017: Please note that you will be unable to download the virtual appliance at this time due to Packt Publishing not increasing their Git LFS quota. Please email me at [matt@madorn.com](mailto:matt@madorn.com) to obtain a temporary link to the appliance.
+
 # Preparing-for-the-Certified-OpenStack-Administrator-Exam
 
 This book provides you with a specific strategy to pass the OpenStack Foundation’s first professional certification: the Certified OpenStack Administrator. In a recent survey, 78% of respondents said the OpenStack skills shortage had deterred them from adopting OpenStack. Consider this an opportunity to increase employer and customer confidence by proving you have the skills required to administrate real-world OpenStack clouds. 
