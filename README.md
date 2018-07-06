@@ -9,7 +9,7 @@ Finally, you’ll benefit from the special tips section and a practice exam to p
 ## Materials
 
 * OpenStack Newton All-in-One Virtual Appliance (`coa-aio-newton.ova`) - See Chapter 2 in the book for Installation Instructions.
-* You can download (`coa-aio-newton.ova`) file from [here](http://bit.ly/2MQkp7A).
+* You can download (`coa-aio-newton.ova`) file from [here](http://bit.ly/2MQkp7A) or from [GitHub](https://github.com/PacktPublishing/Preparing-for-the-Certified-OpenStack-Administrator-Exam/blob/master/coa-aio-newton.ova).
 
 ## Issues
 
