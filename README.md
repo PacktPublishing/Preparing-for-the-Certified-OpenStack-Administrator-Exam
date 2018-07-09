@@ -1,5 +1,7 @@
 # Preparing-for-the-Certified-OpenStack-Administrator-Exam
 
+## Please note that the COA exam will be upgraded from OpenStack Newton to OpenStack Pike on August 5th, 2018. Although this book is based off the Newton version, the Linux Foundation has announced that the exam content will not change.
+
 This book provides you with a specific strategy to pass the OpenStack Foundation’s first professional certification: the Certified OpenStack Administrator. In a recent survey, 78% of respondents said the OpenStack skills shortage had deterred them from adopting OpenStack. Consider this an opportunity to increase employer and customer confidence by proving you have the skills required to administrate real-world OpenStack clouds. 
 
 You will begin your journey by getting well-versed with the OpenStack environment, understanding the benefits of taking this exam, and installing an included OpenStack All-in-One Virtual Appliance to work through objectives covered in the chapters. After exploring the basics of the individual services, you will then be introduced to strategies to accomplish the exam objectives relevant to Keystone, Glance, Nova, Neutron, Cinder, Swift, Heat, and troubleshooting. 
