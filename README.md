@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B06903?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Preparing-for-the-Certified-OpenStack-Administrator-Exam
 
 ## NOTE: the COA exam will be upgraded from OpenStack Newton to OpenStack Pike on August 5th, 2018. Although this book is based off the Newton version, the Linux Foundation has announced that the exam content will not change.
