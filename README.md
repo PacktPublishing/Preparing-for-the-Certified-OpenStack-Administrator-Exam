@@ -16,3 +16,7 @@ Finally, you’ll benefit from the special tips section and a practice exam to p
 ## Issues
 
 * If you experience any issues with the appliance or have any questions/comments regarding the book, feel free to email me at [matt@madorn.com](mailto:matt@madorn.com)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787288416">https://packt.link/free-ebook/9781787288416 </a> </p>
